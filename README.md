@@ -1,7 +1,7 @@
-## Hi 👋
+## Oi 👋
 
-I'm from Brasil, Full-stack developer. Back-end with nodeJs and php, front-end with VueJs. Still with knowledge in React Native, python, java and C.
-I am a Developer who likes to apply my knowledge in tools to make life easier for people and programmers. 
+Sou do Brasil, desenvolvedor Full-stack. Back-end com nodeJs e php, front-end com VueJs. Ainda com conhecimentos em React Native, python, java e C.
+Sou um Desenvolvedor que gosta de aplicar meus conhecimentos em ferramentas para facilitar a vida de pessoas e programadores.
 
 ### Statistics GitHub
 ![Edmar-Sousa](https://github-readme-stats.vercel.app/api?username=Edmar-Sousa&show_icons=true&title_color=ffffff&icon_color=d88f19&text_color=c3c3c3&bg_color=151515)
