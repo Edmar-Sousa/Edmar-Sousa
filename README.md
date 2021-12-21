@@ -1,6 +1,6 @@
 ## Oi 👋
 
-Sou do Brasil, desenvolvedor Full-stack. Back-end com nodeJs e php, front-end com VueJs. Ainda com conhecimentos em React Native, python, java e C.
+Eu sou do Brasil, desenvolvedor Full-stack. Back-end com nodeJs e php, front-end com VueJs. Ainda com conhecimentos em React Native, python, java e C.
 Sou um Desenvolvedor que gosta de aplicar meus conhecimentos em ferramentas para facilitar a vida de pessoas e programadores.
 
 ### Statistics GitHub
