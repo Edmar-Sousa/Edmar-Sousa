@@ -1,13 +1,31 @@
-## Bem vindo ao meu perfil 👋
+<h2 align="center">Bem Vindo! :wave: :wave:</h2>
 
-Desenvolvedor front-end que adora aplicar os conhecimentos para facilitar a vida das pessoas.
+<p align="center">
+Sou desenvolvedor front-end e possuo conhecimentos em <br /> desenvolvimento back-end e mobile. <br /><br />
+</p>
 
-### Educação
-- Técnico em informática, Programação de computadores
-- Curso Superior em Tecnologia (CST), Redes De Computadores - Atual
+<h2 align="center">Principais Frameworks e Linguagens</h2>
 
-### Estatística do GitHub
-![Edmar-Sousa](https://github-readme-stats.vercel.app/api?username=Edmar-Sousa&show_icons=true&title_color=ffffff&icon_color=d88f19&text_color=c3c3c3&bg_color=151515)
+<p align="center">
+<img width="35" height="35" src="https://cdn.simpleicons.org/vue.js/41b883" />
+<img width="35" height="35" src="https://cdn.simpleicons.org/react/61dafb" />
+<img width="35" height="35" src="https://cdn.simpleicons.org/sass/e608b" />
+<img width="35" height="35" src="https://cdn.simpleicons.org/html5" />
+<img width="35" height="35" src="https://cdn.simpleicons.org/css3" />
+<img width="35" height="35" src="https://cdn.simpleicons.org/javascript" />
+<img width="35" height="35" src="https://cdn.simpleicons.org/typescript" />
+<img width="35" height="35" src="https://cdn.simpleicons.org/php" />
+</p>
 
-### Minhas linguagens favoritas
-![lamguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edmar-Sousa&layout=compact&bg_color=151515&text_color=c3c3c3&title_color=d88f19)
+<h4 align="center">back-end</h4>
+<p align="center">
+<img width="35" height="35" src="https://cdn.simpleicons.org/laravel/e6442f" />
+<img width="35" height="35" src="https://cdn.simpleicons.org/express/7ebf00" />
+</p>
+
+<h4 align="center">Hobbies</h4>
+<p align="center">
+<img width="35" height="35" src="https://cdn.simpleicons.org/c" />
+<img width="35" height="35" src="https://cdn.simpleicons.org/c++" />
+<img width="35" height="35" src="https://cdn.simpleicons.org/python" />
+</p>
