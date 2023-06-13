@@ -26,6 +26,6 @@ Sou desenvolvedor front-end e possuo conhecimentos em <br /> desenvolvimento bac
 <h4 align="center">Hobbies</h4>
 <p align="center">
 <img width="35" height="35" src="https://cdn.simpleicons.org/c" />
-<img width="35" height="35" src="https://cdn.simpleicons.org/c++" />
+<img width="35" height="35" src="https://cdn.simpleicons.org/rust" />
 <img width="35" height="35" src="https://cdn.simpleicons.org/python" />
 </p>
