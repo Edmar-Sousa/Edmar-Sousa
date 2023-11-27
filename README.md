@@ -8,7 +8,6 @@ Sou desenvolvedor front-end e possuo conhecimentos em <br /> desenvolvimento bac
 
 <p align="center">
 <img width="35" height="35" src="https://cdn.simpleicons.org/vue.js/41b883" />
-<img width="35" height="35" src="https://cdn.simpleicons.org/react/61dafb" />
 <img width="35" height="35" src="https://cdn.simpleicons.org/sass/e608b" />
 <img width="35" height="35" src="https://cdn.simpleicons.org/html5" />
 <img width="35" height="35" src="https://cdn.simpleicons.org/css3" />
