@@ -1,7 +1,7 @@
 <h2 align="center">Bem Vindo! :wave: :wave:</h2>
 
 <p align="center">
-Sou desenvolvedor front-end e possuo conhecimentos em <br /> desenvolvimento back-end e mobile. <br /><br />
+Sou desenvolvedor full-stack e possuo conhecimentos em <br /> desenvolvimento mobile. <br /><br />
 </p>
 
 <h2 align="center">Principais Frameworks e Linguagens</h2>
