@@ -38,26 +38,44 @@ Sou curioso e estou sempre aberto a aprender novas tecnologias e novas areas.
   
 </div>
 
-<h2 align="center">Principais Frameworks e Linguagens</h2>
+### Projetos
 
-<p align="center">
-<img width="35" height="35" src="https://cdn.simpleicons.org/vue.js/41b883" />
-<img width="35" height="35" src="https://cdn.simpleicons.org/sass/e608b" />
-<img width="35" height="35" src="https://cdn.simpleicons.org/html5" />
-<img width="35" height="35" src="https://cdn.simpleicons.org/css3" />
-<img width="35" height="35" src="https://cdn.simpleicons.org/javascript" />
-<img width="35" height="35" src="https://cdn.simpleicons.org/typescript" />
-<img width="35" height="35" src="https://cdn.simpleicons.org/php" />
-</p>
+#### buy-a-ticket
 
-<h4 align="center">back-end</h4>
-<p align="center">
-<img width="35" height="35" src="https://cdn.simpleicons.org/laravel/e6442f" />
-<img width="35" height="35" src="https://cdn.simpleicons.org/express/7ebf00" />
-</p>
+**Descrição:** Uma API REST de compra de ingressos, o objetivo do projeto é trabalhar com concorrencia, impedindo que o mesmo de um ingresso sejá 
+vendido para mais de uma pessoa.
 
-<h4 align="center">Hobbies</h4>
-<p align="center">
-<img width="35" height="35" src="https://cdn.simpleicons.org/c" />
-<img width="35" height="35" src="https://cdn.simpleicons.org/python" />
-</p>
+**Tecnologias:** PHP, Phalcon, PostgreSQL, Docker e Nginx.
+
+**Repositório:** [buy-a-ticket](https://github.com/Edmar-Sousa/buy-a-ticket)
+
+#### Kanban
+
+**Descrição:** Projeto feito como laboratorio de aprendizado. Nele utilizo para fazer integração com APIs de pagamentos, testes Unitarios e E2E, processamento em filas, 
+comunicação em tempo real utilizando WEB RTC e Laravel Reverb. O projeto ainda esta em desenvolvimento.
+
+**Tecnologias:** PHP, Laravel, Laravel Reverb, JavaScript, Vue.js, InertiaJs e Taiwindcss.
+
+**Repositório:** [Kanban](https://github.com/Edmar-Sousa/kanban)
+
+#### Rinha de Backend
+
+**Descrição:** Projeto feito para o evento rinha de back-end 2024. O objetivo era fazer uma API REST para debito e credito na conta de usuarios, com 
+retrições severas de memoria e CPU, 550MB e 1.5 CPUs respectivamente.
+
+**Tecnologias:** PHP, Hyperf, PostgreSQL, Docker e Nginx.
+
+**Repositório:** [rinha-backend-2024q1](https://github.com/Edmar-Sousa/rinha-backend-2024q1)
+
+
+### Atualmente
+
+- Estudando arquitetura de software e desenvolvimento back-end.
+- Desenvolvendo projetos de sistemas distribuidos e com foco em sistemas financeiros.
+- Buscando oportunidades como desenvolvedor full-stack ou desenvolvedor back-end.
+
+
+### Contatos
+
+LinkedIn: [Edmar-Sousa](https://www.linkedin.com/in/edmar-sousa/);
+
