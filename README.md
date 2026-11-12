@@ -1,11 +1,15 @@
-<h2 align="center">Bem Vindo! :wave: :wave:</h2>
+
+## Olá, me chamo Edmar.
 
 ![edmar-sousa-desenvolvedor-full-stack](https://github.com/Edmar-Sousa/Edmar-Sousa/blob/master/edmar-sousa-desenvolvedor-full-stack.png)
 
 
-<p align="center">
-Sou desenvolvedor full-stack e possuo conhecimentos em <br /> desenvolvimento mobile. <br /><br />
-</p>
+Sou Desenvolvedor Full-Stack com +4 anos de experiência em PHP, Laravel, JavaScript, TypeScript, NestJS e Vue.js.
+Busco atuar como Desenvolvedor Full-Stack, com foco em sistemas distribuídos, performance, escalabilidade e modernização de sistemas legados.
+Gosto de construir soluções bem estruturadas, priorizando otimizações, estruturas de dados e boas práticas. 
+Sou curioso e estou sempre aberto a aprender novas tecnologias novas areas.
+
+
 
 <h2 align="center">Principais Frameworks e Linguagens</h2>
 
