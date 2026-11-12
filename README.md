@@ -34,7 +34,10 @@ Sou curioso e estou sempre aberto a aprender novas tecnologias e novas areas.
     <img src="https://skillicons.dev/icons?i=php,docker,postgres,nginx" width="160px" /> <br /><br />
     <a href="https://github.com/Edmar-Sousa/buy-a-ticket">Ver projeto</a>
   </td>
-  
+
+</tr>
+
+<tr>
   <td width="50%" valign="top">
     <h3>Kanban</h3> <br />
     <p>
@@ -47,7 +50,6 @@ Sou curioso e estou sempre aberto a aprender novas tecnologias e novas areas.
   </td>
 </tr>
 
-
 <tr>
   <td width="50%" valign="top">
     <h3>Rinha de Backend</h3> <br />
@@ -57,10 +59,6 @@ Sou curioso e estou sempre aberto a aprender novas tecnologias e novas areas.
     </p>
     <img src="https://skillicons.dev/icons?i=php,docker,postgres,nginx" width="160px" /> <br /><br />
     <a href="https://github.com/Edmar-Sousa/rinha-backend-2024q1">Ver projeto</a>
-  </td>
-  
-  <td width="50%" valign="top">
-    
   </td>
 </tr>
 
