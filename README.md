@@ -1,5 +1,8 @@
 <h2 align="center">Bem Vindo! :wave: :wave:</h2>
 
+![edmar-sousa-desenvolvedor-full-stack](https://github.com/Edmar-Sousa/Edmar-Sousa/blob/master/edmar-sousa-desenvolvedor-full-stack.png)
+
+
 <p align="center">
 Sou desenvolvedor full-stack e possuo conhecimentos em <br /> desenvolvimento mobile. <br /><br />
 </p>
