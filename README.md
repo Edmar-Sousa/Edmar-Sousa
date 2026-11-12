@@ -38,12 +38,12 @@ Sou curioso e estou sempre aberto a aprender novas tecnologias e novas areas.
   
 </div>
 
+
 ### Projetos
 
 #### buy-a-ticket
 
-**Descrição:** Uma API REST de compra de ingressos, o objetivo do projeto é trabalhar com concorrencia, impedindo que o mesmo de um ingresso sejá 
-vendido para mais de uma pessoa.
+**Descrição:** Uma API REST para compra de ingressos. O objetivo do projeto é trabalhar com concorrência, impedindo que o mesmo ingresso seja vendido para mais de uma pessoa.
 
 **Tecnologias:** PHP, Phalcon, PostgreSQL, Docker e Nginx.
 
@@ -51,31 +51,27 @@ vendido para mais de uma pessoa.
 
 #### Kanban
 
-**Descrição:** Projeto feito como laboratorio de aprendizado. Nele utilizo para fazer integração com APIs de pagamentos, testes Unitarios e E2E, processamento em filas, 
-comunicação em tempo real utilizando WEB RTC e Laravel Reverb. O projeto ainda esta em desenvolvimento.
+**Descrição:** Projeto desenvolvido como laboratório de aprendizado. Nele, exploro integrações com APIs de pagamento, testes unitários e E2E, processamento de filas e comunicação em tempo real utilizando WebRTC e Laravel Reverb. O projeto ainda está em desenvolvimento.
 
-**Tecnologias:** PHP, Laravel, Laravel Reverb, JavaScript, Vue.js, InertiaJs e Taiwindcss.
+**Tecnologias:** PHP, Laravel, Laravel Reverb, JavaScript, Vue.js, Inertia.js e Tailwind CSS.
 
 **Repositório:** [Kanban](https://github.com/Edmar-Sousa/kanban)
 
 #### Rinha de Backend
 
-**Descrição:** Projeto feito para o evento rinha de back-end 2024. O objetivo era fazer uma API REST para debito e credito na conta de usuarios, com 
-retrições severas de memoria e CPU, 550MB e 1.5 CPUs respectivamente.
+**Descrição:** Projeto desenvolvido para o evento Rinha de Backend 2024. O objetivo era criar uma API REST para operações de débito e crédito em contas de usuários, sob restrições severas de memória e CPU: 550 MB de memória e 1,5 CPU.
 
 **Tecnologias:** PHP, Hyperf, PostgreSQL, Docker e Nginx.
 
 **Repositório:** [rinha-backend-2024q1](https://github.com/Edmar-Sousa/rinha-backend-2024q1)
 
-
 ### Atualmente
 
 - Estudando arquitetura de software e desenvolvimento back-end.
-- Desenvolvendo projetos de sistemas distribuidos e com foco em sistemas financeiros.
-- Buscando oportunidades como desenvolvedor full-stack ou desenvolvedor back-end.
-
+- Desenvolvendo projetos de sistemas distribuídos, com foco em sistemas financeiros.
+- Buscando oportunidades como desenvolvedor full-stack ou back-end.
 
 ### Contatos
 
-LinkedIn: [Edmar-Sousa](https://www.linkedin.com/in/edmar-sousa/);
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmar-sousa-9666b0201/)
 
