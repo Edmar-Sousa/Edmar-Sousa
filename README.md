@@ -77,7 +77,7 @@ Sou curioso e estou sempre aberto a aprender novas tecnologias e novas areas.
 <a href="https://www.linkedin.com/in/edmar-sousa-9666b0201/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="mailto:edmarsousa.developer@gmail.com?subject=Contato&body=Olá!">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
