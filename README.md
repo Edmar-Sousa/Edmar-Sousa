@@ -15,36 +15,58 @@ Sou curioso e estou sempre aberto a aprender novas tecnologias e novas areas.
 
 <div style="display: flex;">
 
-  [![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,pinia,js,ts,nestjs,express,tailwind,postgres,redis,rabbitmq,docker,linux)](https://skillicons.dev)
+  ![Skills](https://skillicons.dev/icons?i=php,laravel,vue,pinia,js,ts,nestjs,express,tailwind,postgres,redis,rabbitmq,docker,linux)
   
 </div>
 
 
 ### Projetos
 
-### buy-a-ticket
+<table>
 
-**Descrição:** Uma API REST para compra de ingressos. O objetivo do projeto é trabalhar com concorrência, impedindo que o mesmo ingresso seja vendido para mais de uma pessoa.
+<tr>
+  <td width="50%" valign="top">
+    <h3>buy-a-ticket</h3> <br />
+    <p>
+      Uma API REST para compra de ingressos. O objetivo do projeto é trabalhar com concorrência, 
+      impedindo que o mesmo ingresso seja vendido para mais de uma pessoa.
+    </p>
+    <img src="https://skillicons.dev/icons?i=php,docker,postgres,nginx" width="160px" /> <br /><br />
+    <a href="https://github.com/Edmar-Sousa/buy-a-ticket">Ver projeto</a>
+  </td>
+  
+  <td width="50%" valign="top">
+    <h3>Kanban</h3> <br />
+    <p>
+      Projeto desenvolvido como laboratório de aprendizado. Nele, exploro integrações com APIs de pagamento, testes unitários 
+      e E2E, processamento de filas e comunicação em tempo real utilizando WebRTC e Laravel Reverb. O projeto ainda 
+      está em desenvolvimento.
+    </p>
+    <img src="https://skillicons.dev/icons?i=php,laravel,postgres,js,vue,tailwind" width="250px" /> <br /><br />
+    <a href="https://github.com/Edmar-Sousa/kanban">Ver projeto</a>
+  </td>
+</tr>
 
-**Tecnologias:** PHP, Phalcon, PostgreSQL, Docker e Nginx.
 
-**Repositório:** [buy-a-ticket](https://github.com/Edmar-Sousa/buy-a-ticket)
+<tr>
+  <td width="50%" valign="top">
+    <h3>Rinha de Backend</h3> <br />
+    <p>
+      Projeto desenvolvido para o evento Rinha de Backend 2024. O objetivo era criar uma API REST para operações de 
+      débito e crédito em contas de usuários, sob restrições severas de memória e CPU: 550 MB de memória e 1,5 CPU.
+    </p>
+    <img src="https://skillicons.dev/icons?i=php,docker,postgres,nginx" width="160px" /> <br /><br />
+    <a href="https://github.com/Edmar-Sousa/rinha-backend-2024q1">Ver projeto</a>
+  </td>
+  
+  <td width="50%" valign="top">
+    
+  </td>
+</tr>
 
-### Kanban
+</table>
 
-**Descrição:** Projeto desenvolvido como laboratório de aprendizado. Nele, exploro integrações com APIs de pagamento, testes unitários e E2E, processamento de filas e comunicação em tempo real utilizando WebRTC e Laravel Reverb. O projeto ainda está em desenvolvimento.
 
-**Tecnologias:** PHP, Laravel, Laravel Reverb, JavaScript, Vue.js, Inertia.js e Tailwind CSS.
-
-**Repositório:** [Kanban](https://github.com/Edmar-Sousa/kanban)
-
-### Rinha de Backend
-
-**Descrição:** Projeto desenvolvido para o evento Rinha de Backend 2024. O objetivo era criar uma API REST para operações de débito e crédito em contas de usuários, sob restrições severas de memória e CPU: 550 MB de memória e 1,5 CPU.
-
-**Tecnologias:** PHP, Hyperf, PostgreSQL, Docker e Nginx.
-
-**Repositório:** [rinha-backend-2024q1](https://github.com/Edmar-Sousa/rinha-backend-2024q1)
 
 ### Atualmente
 
