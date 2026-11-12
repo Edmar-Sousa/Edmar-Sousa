@@ -22,7 +22,7 @@ Sou curioso e estou sempre aberto a aprender novas tecnologias e novas areas.
 
 ### Projetos
 
-#### buy-a-ticket
+### buy-a-ticket
 
 **Descrição:** Uma API REST para compra de ingressos. O objetivo do projeto é trabalhar com concorrência, impedindo que o mesmo ingresso seja vendido para mais de uma pessoa.
 
@@ -30,7 +30,7 @@ Sou curioso e estou sempre aberto a aprender novas tecnologias e novas areas.
 
 **Repositório:** [buy-a-ticket](https://github.com/Edmar-Sousa/buy-a-ticket)
 
-#### Kanban
+### Kanban
 
 **Descrição:** Projeto desenvolvido como laboratório de aprendizado. Nele, exploro integrações com APIs de pagamento, testes unitários e E2E, processamento de filas e comunicação em tempo real utilizando WebRTC e Laravel Reverb. O projeto ainda está em desenvolvimento.
 
@@ -38,7 +38,7 @@ Sou curioso e estou sempre aberto a aprender novas tecnologias e novas areas.
 
 **Repositório:** [Kanban](https://github.com/Edmar-Sousa/kanban)
 
-#### Rinha de Backend
+### Rinha de Backend
 
 **Descrição:** Projeto desenvolvido para o evento Rinha de Backend 2024. O objetivo era criar uma API REST para operações de débito e crédito em contas de usuários, sob restrições severas de memória e CPU: 550 MB de memória e 1,5 CPU.
 
